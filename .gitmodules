@@ -1,0 +1,3 @@
+[submodule "WebApplication3"]
+	path = WebApplication3
+	url = https://github.com/anycodder/MVC_0.8.git
